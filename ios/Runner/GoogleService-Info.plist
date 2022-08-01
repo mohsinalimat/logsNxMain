@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>947949074744-h8j3u53il7hotk1mvlf8t3574shvelqd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.947949074744-h8j3u53il7hotk1mvlf8t3574shvelqd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZJuIlfRISDzekHe1bhE5BnFkhSn6zsZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>947949074744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cloud.logsnx.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>logsnx</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logsnx.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:947949074744:ios:81762ee53d77a2abdf29cd</string>
+	<key>DATABASE_URL</key>
+	<string>https://logsnx.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947949074744",
+    "firebase_url": "https://logsnx.firebaseio.com",
+    "project_id": "logsnx",
+    "storage_bucket": "logsnx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947949074744:android:ea107cff508f5d70df29cd",
+        "android_client_info": {
+          "package_name": "cloud.logsnx.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947949074744-jfmqimp7saq3ra2gv4ebp6q9731l88bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXyU689lroz3dedW-dHueKrAWW-Bv1YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947949074744-jfmqimp7saq3ra2gv4ebp6q9731l88bc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947949074744-h8j3u53il7hotk1mvlf8t3574shvelqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cloud.logsnx.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
